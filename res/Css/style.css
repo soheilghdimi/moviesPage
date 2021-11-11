@@ -1,0 +1,41 @@
+.card {
+    box-shadow: 0 0 10px rgba(128, 128, 128, 0.42);
+    border-radius: 5px;
+    margin: 50px 20px;
+    padding-bottom: 20px;
+}
+
+.photo {
+    width: 100%;
+    height: 350px;
+}
+
+.play-btn {
+    margin-top: -370px;
+    margin-left: 115px;
+    cursor: pointer;
+}
+.play-btn:hover{
+    box-shadow: 0 0 30px rgba(142, 241, 241, .9);
+    border-radius: 30px;
+}
+#input {
+    border-radius: 5px;
+    margin: 20px 4%;
+}
+
+.title {
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.rate{
+    display: inline-block;
+    float: right
+}
+
+.dec {
+    font-size: 14px;
+    color: grey;
+}
